@@ -1,0 +1,16 @@
+@font-face {  
+	font-family: medieval;
+    src: url(MoriaCitadel.ttf) format("truetype");
+}
+
+#nav {
+    background-color: black;
+	height: 100px;
+	font-family: "medieval";
+	color: white;
+}
+
+.margin100{
+	width: 100px;
+}
+
